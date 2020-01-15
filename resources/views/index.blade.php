@@ -201,7 +201,7 @@
                             <img src="images/wedding/events/cocktail.jpg" alt="Image">
                         </div>
                         <div class="fbox-desc">
-                            <h3>Cocktail Party<span class="subtitle">Gokul Banquets, 14th June</span></h3>
+                            <h3>Eat Question<span class="subtitle">Hai Phong, 14th February</span></h3>
                         </div>
                     </div>
                 </div>
@@ -212,7 +212,7 @@
                             <img src="images/wedding/events/wedding.jpg" alt="Image">
                         </div>
                         <div class="fbox-desc">
-                            <h3>Wedding Ceremony<span class="subtitle">Singhi Palace, 15th June</span></h3>
+                            <h3>Wedding Ceremony #1<span class="subtitle">Mipec Palace, 15th February</span></h3>
                         </div>
                     </div>
                 </div>
@@ -223,7 +223,7 @@
                             <img src="images/wedding/events/afterwedding.jpg" alt="Image">
                         </div>
                         <div class="fbox-desc">
-                            <h3>After Wedding Party<span class="subtitle">27 Ballygunge Place, 16th June</span></h3>
+                            <h3>Wedding Ceremony #1<span class="subtitle">Hai Phong, 16th February</span></h3>
                         </div>
                     </div>
                 </div>
