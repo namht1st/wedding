@@ -176,14 +176,14 @@
                             <div class="slide" data-thumb="images/wedding/thumb/15.jpg"><img src="images/wedding/15.jpg" alt="Image"></div>
                             <div class="slide" data-thumb="images/wedding/thumb/19.jpg"><img src="images/wedding/19.jpg" alt="Image"></div>
                             <div class="slide" data-thumb="images/wedding/thumb/20.jpg"><img src="images/wedding/20.jpg" alt="Image"></div>
-                            <div class="slide" data-thumb="images/wedding/thumb/21.jpg"><img src="images/wedding/21.jpg" alt="Image"></div>
-                            <div class="slide" data-thumb="images/wedding/thumb/22.jpg"><img src="images/wedding/22.jpg" alt="Image"></div>
-                            <div class="slide" data-thumb="images/wedding/thumb/23.jpg"><img src="images/wedding/23.jpg" alt="Image"></div>
-                            <div class="slide" data-thumb="images/wedding/thumb/24.jpg"><img src="images/wedding/24.jpg" alt="Image"></div>
-                            <div class="slide" data-thumb="images/wedding/thumb/25.jpg"><img src="images/wedding/25.jpg" alt="Image"></div>
-                            <div class="slide" data-thumb="images/wedding/thumb/26.jpg"><img src="images/wedding/26.jpg" alt="Image"></div>
-                            <div class="slide" data-thumb="images/wedding/thumb/27.jpg"><img src="images/wedding/27.jpg" alt="Image"></div>
-                            <div class="slide" data-thumb="images/wedding/thumb/28.jpg"><img src="images/wedding/28.jpg" alt="Image"></div>
+{{--                            <div class="slide" data-thumb="images/wedding/thumb/21.jpg"><img src="images/wedding/21.jpg" alt="Image"></div>--}}
+{{--                            <div class="slide" data-thumb="images/wedding/thumb/22.jpg"><img src="images/wedding/22.jpg" alt="Image"></div>--}}
+{{--                            <div class="slide" data-thumb="images/wedding/thumb/23.jpg"><img src="images/wedding/23.jpg" alt="Image"></div>--}}
+{{--                            <div class="slide" data-thumb="images/wedding/thumb/24.jpg"><img src="images/wedding/24.jpg" alt="Image"></div>--}}
+{{--                            <div class="slide" data-thumb="images/wedding/thumb/25.jpg"><img src="images/wedding/25.jpg" alt="Image"></div>--}}
+{{--                            <div class="slide" data-thumb="images/wedding/thumb/26.jpg"><img src="images/wedding/26.jpg" alt="Image"></div>--}}
+{{--                            <div class="slide" data-thumb="images/wedding/thumb/27.jpg"><img src="images/wedding/27.jpg" alt="Image"></div>--}}
+{{--                            <div class="slide" data-thumb="images/wedding/thumb/28.jpg"><img src="images/wedding/28.jpg" alt="Image"></div>--}}
                         </div>
                     </div>
                 </div>
@@ -301,16 +301,11 @@
     <!-- Footer
     ============================================= -->
     <footer id="footer" class="dark">
-
         <!-- Copyrights
         ============================================= -->
         <div id="copyrights">
-
             <div class="container center clearfix">
-
-                Copyrights &copy; 2014 All Rights Reserved by SemiColonWeb<br>
-                <div class="copyright-links"><a href="https://themeforest.net/user/SemiColonWeb/portfolio?ref=SemiColonWeb">Portfolio</a> / <a href="https://twitter.com/smclweb">Twitter</a></div>
-
+                Copyrights &copy; {{\Carbon\Carbon::now()->year}} All Rights Reserved by Sam<br>
             </div>
 
         </div><!-- #copyrights end -->
